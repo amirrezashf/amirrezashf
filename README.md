@@ -17,32 +17,6 @@ I enjoy designing systems that are not only functional, but scalable, maintainab
 
 ---
 
-## 🏗️ What I Build
-
-- Custom WordPress solutions
-- WooCommerce extensions and business tools
-- CRM and customer portals
-- Business process automation systems
-- Performance-focused web platforms
-- Internal management dashboards
-- SEO-driven websites
-- AI-assisted business applications
-
----
-
-## 📊 Professional Interests
-
-- Software Architecture
-- System Design
-- Product Development
-- Technical SEO
-- Infrastructure Engineering
-- Artificial Intelligence
-- Business Automation
-- Automotive Technology
-
----
-
 ## 📫 Connect With Me
 
 Email: amirreza.sr@gmail.com
